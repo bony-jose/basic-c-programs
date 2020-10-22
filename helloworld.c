@@ -1,5 +1,5 @@
-#incude stdio.h
+#include <stdio.h>
+void main()
 {
-void min;
-print"hello world"
+printf("hello world");
 }
